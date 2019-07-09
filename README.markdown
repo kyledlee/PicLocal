@@ -1,5 +1,16 @@
 ## Readme
 
+PicLocal is a web app that allows you to see picture posts from other users that are near you. It works like instagram, but instead of seeing a feed from people you follow, you see a feed of pictures that were posted within 25 kilometers of your current location.
+
+PicLocal uses the web2py framework.
+
+Created by:
+Kyle Lee (@kyledlee)
+Malcolm Neill (@malcolmneill)
+Anisha Trivedi (@anishatrivedi)
+
+## web2py
+
 web2py is a free open source full-stack framework for rapid development of fast, scalable, secure and portable database-driven web-based applications.
 
 It is written and programmable in Python. LGPLv3 License
